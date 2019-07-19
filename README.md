@@ -1,17 +1,33 @@
+# Clima
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+A iOS app that allows users to display the value of bitcoin in different currenices 
 
-#  Bitcoin Ticker
+**App**
 
-## Our Goal
+![APP_GIF](APP_GIF.gif)
 
-The objective of this challenge is to apply the skills you learned in the Clima tutorial and make a Bitcoin price reporter. We are going to revisit how to use Cocoapods, networking calls and JSON parsing. This will be the most advanced challenge you will face to date. We believe in you!
+---
 
-## What you will create
+## Features
 
-We’re going to make a Bitcoin price ticker. The app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
+- Used Swift to program the functionality.
+- Used Alamofire cocoapod to get the network response.
+- Used SwifyJSON cocoapod to parse the JSON object.
+- Used the BitcoinAverage api to get the bitcoin values in different curriences.
+---
 
+## Contact
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+Reach out to me at one of the following places!
 
-![End Banner](Documentation/readme-end-banner.png)
+- <a href="https://www.linkedin.com/in/zubair-amjad/" target="_blank">`LinkedIn`</a>
+- <a href="https://www.facebook.com/ZubairAmjad" target="_blank">`Facebook`</a>
+
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 © <a href="https://github.com/amjadz" target="_blank">Zubair Amjad</a>.
