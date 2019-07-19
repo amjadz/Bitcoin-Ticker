@@ -1,4 +1,4 @@
-# Clima
+# Bitcoin-Ticker
 
 A iOS app that allows users to display the value of bitcoin in different currenices 
 
